@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Apprenant_beweb</string>
+    <string name="promoPrompt">choisir une promotion</string>
+    <string name="sessionPrompt">choisir une session</string>
+    <string name="skillPrompt">choisir un skill</string>
+    <string-array name="identity">
+        <item>
+            <nom>Lars</nom>
+            <prenom>maurice</prenom>
+            <skill>aucunh</skill>
+        </item>
+        <item>
+            <nom>francis</nom>
+            <prenom>huster</prenom>
+            <skill>Test</skill>
+        </item>
+        <item>
+            <nom>brigitte</nom>
+            <prenom>deeveedees</prenom>
+            <skill>cauchemar</skill>
+        </item>
+        <item>
+            <nom>Lars</nom>
+            <prenom>Test</prenom>
+            <skill>Test</skill>
+        </item>
+    </string-array>
+</resources>
